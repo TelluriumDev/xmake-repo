@@ -1,5 +1,5 @@
 package("nodejs")
-    add_urls("https://github.com/TelluriumDev/node/releases/download/v$(version)/sdk.zip")
+    add_urls("https://github.com/TelluriumDev/node/releases/download/v$(version)/sdk.7z")
 
     add_versions("24.2.0", "cbd40deacfb83cec62e78ec53f5800e0b52150aa6560e2a963eabe017524f06e")
 
