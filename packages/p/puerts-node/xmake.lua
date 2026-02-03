@@ -1,5 +1,6 @@
 package("puerts_node")
-    set_urls("https://github.com/TelluriumDev/puerts_node")
+    add_urls("https://github.com/TelluriumDev/puerts_node")
+    add_versions("test", "485255ad9b639aacd65fd4829ebbc15caf76f813")
     set_description("C++ binding framework for Node.js/V8")
     set_license("BSD-3-Clause")
 
